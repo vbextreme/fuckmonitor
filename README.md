@@ -1,4 +1,4 @@
-#Fuck Monitor v0.1
+# Fuck Monitor v0.1
 Gnome system monitor extension using arcos</br>
 
 Released under GPL v3
